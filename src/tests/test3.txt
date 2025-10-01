@@ -1,0 +1,3 @@
+echo TEST 3
+echo This command should work
+fail

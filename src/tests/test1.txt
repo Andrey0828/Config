@@ -1,0 +1,4 @@
+echo TEST 1
+pwd
+ls
+cd /home
